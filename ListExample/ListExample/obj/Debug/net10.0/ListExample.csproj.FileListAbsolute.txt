@@ -1,0 +1,14 @@
+C:\Users\ajkil\source\repos\ListExample\ListExample\bin\Debug\net10.0\ListExample.exe
+C:\Users\ajkil\source\repos\ListExample\ListExample\bin\Debug\net10.0\ListExample.deps.json
+C:\Users\ajkil\source\repos\ListExample\ListExample\bin\Debug\net10.0\ListExample.runtimeconfig.json
+C:\Users\ajkil\source\repos\ListExample\ListExample\bin\Debug\net10.0\ListExample.dll
+C:\Users\ajkil\source\repos\ListExample\ListExample\bin\Debug\net10.0\ListExample.pdb
+C:\Users\ajkil\source\repos\ListExample\ListExample\obj\Debug\net10.0\ListExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajkil\source\repos\ListExample\ListExample\obj\Debug\net10.0\ListExample.AssemblyInfoInputs.cache
+C:\Users\ajkil\source\repos\ListExample\ListExample\obj\Debug\net10.0\ListExample.AssemblyInfo.cs
+C:\Users\ajkil\source\repos\ListExample\ListExample\obj\Debug\net10.0\ListExample.csproj.CoreCompileInputs.cache
+C:\Users\ajkil\source\repos\ListExample\ListExample\obj\Debug\net10.0\ListExample.dll
+C:\Users\ajkil\source\repos\ListExample\ListExample\obj\Debug\net10.0\refint\ListExample.dll
+C:\Users\ajkil\source\repos\ListExample\ListExample\obj\Debug\net10.0\ListExample.pdb
+C:\Users\ajkil\source\repos\ListExample\ListExample\obj\Debug\net10.0\ListExample.genruntimeconfig.cache
+C:\Users\ajkil\source\repos\ListExample\ListExample\obj\Debug\net10.0\ref\ListExample.dll

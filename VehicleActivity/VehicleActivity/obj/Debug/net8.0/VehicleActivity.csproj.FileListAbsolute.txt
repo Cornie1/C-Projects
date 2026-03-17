@@ -1,0 +1,14 @@
+C:\Users\ajkil\source\repos\VehicleActivity\VehicleActivity\bin\Debug\net8.0\VehicleActivity.exe
+C:\Users\ajkil\source\repos\VehicleActivity\VehicleActivity\bin\Debug\net8.0\VehicleActivity.deps.json
+C:\Users\ajkil\source\repos\VehicleActivity\VehicleActivity\bin\Debug\net8.0\VehicleActivity.runtimeconfig.json
+C:\Users\ajkil\source\repos\VehicleActivity\VehicleActivity\bin\Debug\net8.0\VehicleActivity.dll
+C:\Users\ajkil\source\repos\VehicleActivity\VehicleActivity\bin\Debug\net8.0\VehicleActivity.pdb
+C:\Users\ajkil\source\repos\VehicleActivity\VehicleActivity\obj\Debug\net8.0\VehicleActivity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajkil\source\repos\VehicleActivity\VehicleActivity\obj\Debug\net8.0\VehicleActivity.AssemblyInfoInputs.cache
+C:\Users\ajkil\source\repos\VehicleActivity\VehicleActivity\obj\Debug\net8.0\VehicleActivity.AssemblyInfo.cs
+C:\Users\ajkil\source\repos\VehicleActivity\VehicleActivity\obj\Debug\net8.0\VehicleActivity.csproj.CoreCompileInputs.cache
+C:\Users\ajkil\source\repos\VehicleActivity\VehicleActivity\obj\Debug\net8.0\VehicleActivity.dll
+C:\Users\ajkil\source\repos\VehicleActivity\VehicleActivity\obj\Debug\net8.0\refint\VehicleActivity.dll
+C:\Users\ajkil\source\repos\VehicleActivity\VehicleActivity\obj\Debug\net8.0\VehicleActivity.pdb
+C:\Users\ajkil\source\repos\VehicleActivity\VehicleActivity\obj\Debug\net8.0\VehicleActivity.genruntimeconfig.cache
+C:\Users\ajkil\source\repos\VehicleActivity\VehicleActivity\obj\Debug\net8.0\ref\VehicleActivity.dll

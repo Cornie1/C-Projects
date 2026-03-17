@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ajkil\\source\\repos\\Password checker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48318DD4-9A3C-44AB-B3B7-F4C6C8A095BD}|Password checker\\Password checker.csproj|c:\\users\\ajkil\\source\\repos\\password checker\\password checker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48318DD4-9A3C-44AB-B3B7-F4C6C8A095BD}|Password checker\\Password checker.csproj|solutionrelative:password checker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ajkil\\source\\repos\\Password checker\\Password checker\\Program.cs",
+              "RelativeDocumentMoniker": "Password checker\\Program.cs",
+              "ToolTip": "C:\\Users\\ajkil\\source\\repos\\Password checker\\Password checker\\Program.cs*",
+              "RelativeToolTip": "Password checker\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T11:38:26.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

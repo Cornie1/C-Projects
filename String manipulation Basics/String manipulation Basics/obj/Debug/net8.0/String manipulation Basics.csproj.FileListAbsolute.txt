@@ -1,0 +1,14 @@
+C:\Users\ajkil\source\repos\String manipulation Basics\String manipulation Basics\bin\Debug\net8.0\String manipulation Basics.exe
+C:\Users\ajkil\source\repos\String manipulation Basics\String manipulation Basics\bin\Debug\net8.0\String manipulation Basics.deps.json
+C:\Users\ajkil\source\repos\String manipulation Basics\String manipulation Basics\bin\Debug\net8.0\String manipulation Basics.runtimeconfig.json
+C:\Users\ajkil\source\repos\String manipulation Basics\String manipulation Basics\bin\Debug\net8.0\String manipulation Basics.dll
+C:\Users\ajkil\source\repos\String manipulation Basics\String manipulation Basics\bin\Debug\net8.0\String manipulation Basics.pdb
+C:\Users\ajkil\source\repos\String manipulation Basics\String manipulation Basics\obj\Debug\net8.0\String manipulation Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajkil\source\repos\String manipulation Basics\String manipulation Basics\obj\Debug\net8.0\String manipulation Basics.AssemblyInfoInputs.cache
+C:\Users\ajkil\source\repos\String manipulation Basics\String manipulation Basics\obj\Debug\net8.0\String manipulation Basics.AssemblyInfo.cs
+C:\Users\ajkil\source\repos\String manipulation Basics\String manipulation Basics\obj\Debug\net8.0\String manipulation Basics.csproj.CoreCompileInputs.cache
+C:\Users\ajkil\source\repos\String manipulation Basics\String manipulation Basics\obj\Debug\net8.0\String manipulation Basics.dll
+C:\Users\ajkil\source\repos\String manipulation Basics\String manipulation Basics\obj\Debug\net8.0\refint\String manipulation Basics.dll
+C:\Users\ajkil\source\repos\String manipulation Basics\String manipulation Basics\obj\Debug\net8.0\String manipulation Basics.pdb
+C:\Users\ajkil\source\repos\String manipulation Basics\String manipulation Basics\obj\Debug\net8.0\String manipulation Basics.genruntimeconfig.cache
+C:\Users\ajkil\source\repos\String manipulation Basics\String manipulation Basics\obj\Debug\net8.0\ref\String manipulation Basics.dll

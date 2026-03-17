@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "InterfacePractice": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\ajkil\source\repos\DelegatesAndEventsActivity\DelegatesAndEventsActivity\bin\Debug\net10.0\DelegatesAndEventsActivity.exe
+C:\Users\ajkil\source\repos\DelegatesAndEventsActivity\DelegatesAndEventsActivity\bin\Debug\net10.0\DelegatesAndEventsActivity.deps.json
+C:\Users\ajkil\source\repos\DelegatesAndEventsActivity\DelegatesAndEventsActivity\bin\Debug\net10.0\DelegatesAndEventsActivity.runtimeconfig.json
+C:\Users\ajkil\source\repos\DelegatesAndEventsActivity\DelegatesAndEventsActivity\bin\Debug\net10.0\DelegatesAndEventsActivity.dll
+C:\Users\ajkil\source\repos\DelegatesAndEventsActivity\DelegatesAndEventsActivity\bin\Debug\net10.0\DelegatesAndEventsActivity.pdb
+C:\Users\ajkil\source\repos\DelegatesAndEventsActivity\DelegatesAndEventsActivity\obj\Debug\net10.0\DelegatesAndEventsActivity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajkil\source\repos\DelegatesAndEventsActivity\DelegatesAndEventsActivity\obj\Debug\net10.0\DelegatesAndEventsActivity.AssemblyInfoInputs.cache
+C:\Users\ajkil\source\repos\DelegatesAndEventsActivity\DelegatesAndEventsActivity\obj\Debug\net10.0\DelegatesAndEventsActivity.AssemblyInfo.cs
+C:\Users\ajkil\source\repos\DelegatesAndEventsActivity\DelegatesAndEventsActivity\obj\Debug\net10.0\DelegatesAndEventsActivity.csproj.CoreCompileInputs.cache
+C:\Users\ajkil\source\repos\DelegatesAndEventsActivity\DelegatesAndEventsActivity\obj\Debug\net10.0\DelegatesAndEventsActivity.dll
+C:\Users\ajkil\source\repos\DelegatesAndEventsActivity\DelegatesAndEventsActivity\obj\Debug\net10.0\refint\DelegatesAndEventsActivity.dll
+C:\Users\ajkil\source\repos\DelegatesAndEventsActivity\DelegatesAndEventsActivity\obj\Debug\net10.0\DelegatesAndEventsActivity.pdb
+C:\Users\ajkil\source\repos\DelegatesAndEventsActivity\DelegatesAndEventsActivity\obj\Debug\net10.0\DelegatesAndEventsActivity.genruntimeconfig.cache
+C:\Users\ajkil\source\repos\DelegatesAndEventsActivity\DelegatesAndEventsActivity\obj\Debug\net10.0\ref\DelegatesAndEventsActivity.dll

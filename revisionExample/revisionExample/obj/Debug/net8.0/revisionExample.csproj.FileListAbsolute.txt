@@ -1,0 +1,14 @@
+C:\Users\ajkil\source\repos\revisionExample\revisionExample\bin\Debug\net8.0\revisionExample.exe
+C:\Users\ajkil\source\repos\revisionExample\revisionExample\bin\Debug\net8.0\revisionExample.deps.json
+C:\Users\ajkil\source\repos\revisionExample\revisionExample\bin\Debug\net8.0\revisionExample.runtimeconfig.json
+C:\Users\ajkil\source\repos\revisionExample\revisionExample\bin\Debug\net8.0\revisionExample.dll
+C:\Users\ajkil\source\repos\revisionExample\revisionExample\bin\Debug\net8.0\revisionExample.pdb
+C:\Users\ajkil\source\repos\revisionExample\revisionExample\obj\Debug\net8.0\revisionExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajkil\source\repos\revisionExample\revisionExample\obj\Debug\net8.0\revisionExample.AssemblyInfoInputs.cache
+C:\Users\ajkil\source\repos\revisionExample\revisionExample\obj\Debug\net8.0\revisionExample.AssemblyInfo.cs
+C:\Users\ajkil\source\repos\revisionExample\revisionExample\obj\Debug\net8.0\revisionExample.csproj.CoreCompileInputs.cache
+C:\Users\ajkil\source\repos\revisionExample\revisionExample\obj\Debug\net8.0\revisionExample.dll
+C:\Users\ajkil\source\repos\revisionExample\revisionExample\obj\Debug\net8.0\refint\revisionExample.dll
+C:\Users\ajkil\source\repos\revisionExample\revisionExample\obj\Debug\net8.0\revisionExample.pdb
+C:\Users\ajkil\source\repos\revisionExample\revisionExample\obj\Debug\net8.0\revisionExample.genruntimeconfig.cache
+C:\Users\ajkil\source\repos\revisionExample\revisionExample\obj\Debug\net8.0\ref\revisionExample.dll

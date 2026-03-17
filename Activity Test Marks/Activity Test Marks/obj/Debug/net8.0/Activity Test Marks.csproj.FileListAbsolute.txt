@@ -1,0 +1,14 @@
+C:\Users\ajkil\source\repos\Activity Test Marks\Activity Test Marks\bin\Debug\net8.0\Activity Test Marks.exe
+C:\Users\ajkil\source\repos\Activity Test Marks\Activity Test Marks\bin\Debug\net8.0\Activity Test Marks.deps.json
+C:\Users\ajkil\source\repos\Activity Test Marks\Activity Test Marks\bin\Debug\net8.0\Activity Test Marks.runtimeconfig.json
+C:\Users\ajkil\source\repos\Activity Test Marks\Activity Test Marks\bin\Debug\net8.0\Activity Test Marks.dll
+C:\Users\ajkil\source\repos\Activity Test Marks\Activity Test Marks\bin\Debug\net8.0\Activity Test Marks.pdb
+C:\Users\ajkil\source\repos\Activity Test Marks\Activity Test Marks\obj\Debug\net8.0\Activity Test Marks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajkil\source\repos\Activity Test Marks\Activity Test Marks\obj\Debug\net8.0\Activity Test Marks.AssemblyInfoInputs.cache
+C:\Users\ajkil\source\repos\Activity Test Marks\Activity Test Marks\obj\Debug\net8.0\Activity Test Marks.AssemblyInfo.cs
+C:\Users\ajkil\source\repos\Activity Test Marks\Activity Test Marks\obj\Debug\net8.0\Activity Test Marks.csproj.CoreCompileInputs.cache
+C:\Users\ajkil\source\repos\Activity Test Marks\Activity Test Marks\obj\Debug\net8.0\Activity Test Marks.dll
+C:\Users\ajkil\source\repos\Activity Test Marks\Activity Test Marks\obj\Debug\net8.0\refint\Activity Test Marks.dll
+C:\Users\ajkil\source\repos\Activity Test Marks\Activity Test Marks\obj\Debug\net8.0\Activity Test Marks.pdb
+C:\Users\ajkil\source\repos\Activity Test Marks\Activity Test Marks\obj\Debug\net8.0\Activity Test Marks.genruntimeconfig.cache
+C:\Users\ajkil\source\repos\Activity Test Marks\Activity Test Marks\obj\Debug\net8.0\ref\Activity Test Marks.dll

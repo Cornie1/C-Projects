@@ -1,0 +1,14 @@
+C:\Users\ajkil\source\repos\interfaceListExample\interfaceListExample\bin\Debug\net10.0\interfaceListExample.exe
+C:\Users\ajkil\source\repos\interfaceListExample\interfaceListExample\bin\Debug\net10.0\interfaceListExample.deps.json
+C:\Users\ajkil\source\repos\interfaceListExample\interfaceListExample\bin\Debug\net10.0\interfaceListExample.runtimeconfig.json
+C:\Users\ajkil\source\repos\interfaceListExample\interfaceListExample\bin\Debug\net10.0\interfaceListExample.dll
+C:\Users\ajkil\source\repos\interfaceListExample\interfaceListExample\bin\Debug\net10.0\interfaceListExample.pdb
+C:\Users\ajkil\source\repos\interfaceListExample\interfaceListExample\obj\Debug\net10.0\interfaceListExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajkil\source\repos\interfaceListExample\interfaceListExample\obj\Debug\net10.0\interfaceListExample.AssemblyInfoInputs.cache
+C:\Users\ajkil\source\repos\interfaceListExample\interfaceListExample\obj\Debug\net10.0\interfaceListExample.AssemblyInfo.cs
+C:\Users\ajkil\source\repos\interfaceListExample\interfaceListExample\obj\Debug\net10.0\interfaceListExample.csproj.CoreCompileInputs.cache
+C:\Users\ajkil\source\repos\interfaceListExample\interfaceListExample\obj\Debug\net10.0\interfaceListExample.dll
+C:\Users\ajkil\source\repos\interfaceListExample\interfaceListExample\obj\Debug\net10.0\refint\interfaceListExample.dll
+C:\Users\ajkil\source\repos\interfaceListExample\interfaceListExample\obj\Debug\net10.0\interfaceListExample.pdb
+C:\Users\ajkil\source\repos\interfaceListExample\interfaceListExample\obj\Debug\net10.0\interfaceListExample.genruntimeconfig.cache
+C:\Users\ajkil\source\repos\interfaceListExample\interfaceListExample\obj\Debug\net10.0\ref\interfaceListExample.dll

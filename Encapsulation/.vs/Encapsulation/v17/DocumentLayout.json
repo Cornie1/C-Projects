@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ajkil\\source\\repos\\Encapsulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{863B35F1-5743-401B-9680-9731C7247E2E}|Encapsulation\\Encapsulation.csproj|c:\\users\\ajkil\\source\\repos\\encapsulation\\encapsulation\\personclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863B35F1-5743-401B-9680-9731C7247E2E}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\personclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863B35F1-5743-401B-9680-9731C7247E2E}|Encapsulation\\Encapsulation.csproj|c:\\users\\ajkil\\source\\repos\\encapsulation\\encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863B35F1-5743-401B-9680-9731C7247E2E}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonClass.cs",
+              "DocumentMoniker": "C:\\Users\\ajkil\\source\\repos\\Encapsulation\\Encapsulation\\PersonClass.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\PersonClass.cs",
+              "ToolTip": "C:\\Users\\ajkil\\source\\repos\\Encapsulation\\Encapsulation\\PersonClass.cs",
+              "RelativeToolTip": "Encapsulation\\PersonClass.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T11:34:13.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ajkil\\source\\repos\\Encapsulation\\Encapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Program.cs",
+              "ToolTip": "C:\\Users\\ajkil\\source\\repos\\Encapsulation\\Encapsulation\\Program.cs",
+              "RelativeToolTip": "Encapsulation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T11:30:09.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

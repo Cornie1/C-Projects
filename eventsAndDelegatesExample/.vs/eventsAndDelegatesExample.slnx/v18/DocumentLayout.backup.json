@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ajkil\\source\\repos\\eventsAndDelegatesExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD9A712-94FB-466D-A8DF-BC3DF43156F3}|eventsAndDelegatesExample\\eventsAndDelegatesExample.csproj|c:\\users\\ajkil\\source\\repos\\eventsanddelegatesexample\\eventsanddelegatesexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD9A712-94FB-466D-A8DF-BC3DF43156F3}|eventsAndDelegatesExample\\eventsAndDelegatesExample.csproj|solutionrelative:eventsanddelegatesexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ajkil\\source\\repos\\eventsAndDelegatesExample\\eventsAndDelegatesExample\\Program.cs",
+              "RelativeDocumentMoniker": "eventsAndDelegatesExample\\Program.cs",
+              "ToolTip": "C:\\Users\\ajkil\\source\\repos\\eventsAndDelegatesExample\\eventsAndDelegatesExample\\Program.cs",
+              "RelativeToolTip": "eventsAndDelegatesExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T11:31:20.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

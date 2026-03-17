@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "interfaceListExample": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

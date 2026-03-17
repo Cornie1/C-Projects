@@ -1,0 +1,14 @@
+C:\Users\ajkil\source\repos\IceTask3\IceTask3\obj\Debug\net10.0\IceTask3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajkil\source\repos\IceTask3\IceTask3\obj\Debug\net10.0\IceTask3.AssemblyInfoInputs.cache
+C:\Users\ajkil\source\repos\IceTask3\IceTask3\obj\Debug\net10.0\IceTask3.AssemblyInfo.cs
+C:\Users\ajkil\source\repos\IceTask3\IceTask3\obj\Debug\net10.0\IceTask3.csproj.CoreCompileInputs.cache
+C:\Users\ajkil\source\repos\IceTask3\IceTask3\bin\Debug\net10.0\IceTask3.exe
+C:\Users\ajkil\source\repos\IceTask3\IceTask3\bin\Debug\net10.0\IceTask3.deps.json
+C:\Users\ajkil\source\repos\IceTask3\IceTask3\bin\Debug\net10.0\IceTask3.runtimeconfig.json
+C:\Users\ajkil\source\repos\IceTask3\IceTask3\bin\Debug\net10.0\IceTask3.dll
+C:\Users\ajkil\source\repos\IceTask3\IceTask3\bin\Debug\net10.0\IceTask3.pdb
+C:\Users\ajkil\source\repos\IceTask3\IceTask3\obj\Debug\net10.0\IceTask3.dll
+C:\Users\ajkil\source\repos\IceTask3\IceTask3\obj\Debug\net10.0\refint\IceTask3.dll
+C:\Users\ajkil\source\repos\IceTask3\IceTask3\obj\Debug\net10.0\IceTask3.pdb
+C:\Users\ajkil\source\repos\IceTask3\IceTask3\obj\Debug\net10.0\IceTask3.genruntimeconfig.cache
+C:\Users\ajkil\source\repos\IceTask3\IceTask3\obj\Debug\net10.0\ref\IceTask3.dll

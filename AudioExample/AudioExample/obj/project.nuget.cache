@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bVAAWsMLlSA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ajkil\\source\\repos\\AudioExample\\AudioExample\\AudioExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ajkil\\.nuget\\packages\\system.windows.extensions\\10.0.3\\system.windows.extensions.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

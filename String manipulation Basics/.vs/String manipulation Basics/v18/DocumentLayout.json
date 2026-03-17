@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ajkil\\source\\repos\\String manipulation Basics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD431B3-BD05-48DE-8109-A0D836C940EB}|String manipulation Basics\\String manipulation Basics.csproj|c:\\users\\ajkil\\source\\repos\\string manipulation basics\\string manipulation basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD431B3-BD05-48DE-8109-A0D836C940EB}|String manipulation Basics\\String manipulation Basics.csproj|solutionrelative:string manipulation basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ajkil\\source\\repos\\String manipulation Basics\\String manipulation Basics\\Program.cs",
+              "RelativeDocumentMoniker": "String manipulation Basics\\Program.cs",
+              "ToolTip": "C:\\Users\\ajkil\\source\\repos\\String manipulation Basics\\String manipulation Basics\\Program.cs",
+              "RelativeToolTip": "String manipulation Basics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:16:36.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\ajkil\source\repos\InterfacePractice\InterfacePractice\bin\Debug\net10.0\InterfacePractice.exe
+C:\Users\ajkil\source\repos\InterfacePractice\InterfacePractice\bin\Debug\net10.0\InterfacePractice.deps.json
+C:\Users\ajkil\source\repos\InterfacePractice\InterfacePractice\bin\Debug\net10.0\InterfacePractice.runtimeconfig.json
+C:\Users\ajkil\source\repos\InterfacePractice\InterfacePractice\bin\Debug\net10.0\InterfacePractice.dll
+C:\Users\ajkil\source\repos\InterfacePractice\InterfacePractice\bin\Debug\net10.0\InterfacePractice.pdb
+C:\Users\ajkil\source\repos\InterfacePractice\InterfacePractice\obj\Debug\net10.0\InterfacePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajkil\source\repos\InterfacePractice\InterfacePractice\obj\Debug\net10.0\InterfacePractice.AssemblyInfoInputs.cache
+C:\Users\ajkil\source\repos\InterfacePractice\InterfacePractice\obj\Debug\net10.0\InterfacePractice.AssemblyInfo.cs
+C:\Users\ajkil\source\repos\InterfacePractice\InterfacePractice\obj\Debug\net10.0\InterfacePractice.csproj.CoreCompileInputs.cache
+C:\Users\ajkil\source\repos\InterfacePractice\InterfacePractice\obj\Debug\net10.0\InterfacePractice.dll
+C:\Users\ajkil\source\repos\InterfacePractice\InterfacePractice\obj\Debug\net10.0\refint\InterfacePractice.dll
+C:\Users\ajkil\source\repos\InterfacePractice\InterfacePractice\obj\Debug\net10.0\InterfacePractice.pdb
+C:\Users\ajkil\source\repos\InterfacePractice\InterfacePractice\obj\Debug\net10.0\InterfacePractice.genruntimeconfig.cache
+C:\Users\ajkil\source\repos\InterfacePractice\InterfacePractice\obj\Debug\net10.0\ref\InterfacePractice.dll
