@@ -1,0 +1,14 @@
+C:\Users\ajkil\source\repos\lambdaExampleG1\lambdaExampleG1\bin\Debug\net10.0\lambdaExampleG1.exe
+C:\Users\ajkil\source\repos\lambdaExampleG1\lambdaExampleG1\bin\Debug\net10.0\lambdaExampleG1.deps.json
+C:\Users\ajkil\source\repos\lambdaExampleG1\lambdaExampleG1\bin\Debug\net10.0\lambdaExampleG1.runtimeconfig.json
+C:\Users\ajkil\source\repos\lambdaExampleG1\lambdaExampleG1\bin\Debug\net10.0\lambdaExampleG1.dll
+C:\Users\ajkil\source\repos\lambdaExampleG1\lambdaExampleG1\bin\Debug\net10.0\lambdaExampleG1.pdb
+C:\Users\ajkil\source\repos\lambdaExampleG1\lambdaExampleG1\obj\Debug\net10.0\lambdaExampleG1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajkil\source\repos\lambdaExampleG1\lambdaExampleG1\obj\Debug\net10.0\lambdaExampleG1.AssemblyInfoInputs.cache
+C:\Users\ajkil\source\repos\lambdaExampleG1\lambdaExampleG1\obj\Debug\net10.0\lambdaExampleG1.AssemblyInfo.cs
+C:\Users\ajkil\source\repos\lambdaExampleG1\lambdaExampleG1\obj\Debug\net10.0\lambdaExampleG1.csproj.CoreCompileInputs.cache
+C:\Users\ajkil\source\repos\lambdaExampleG1\lambdaExampleG1\obj\Debug\net10.0\lambdaExampleG1.dll
+C:\Users\ajkil\source\repos\lambdaExampleG1\lambdaExampleG1\obj\Debug\net10.0\refint\lambdaExampleG1.dll
+C:\Users\ajkil\source\repos\lambdaExampleG1\lambdaExampleG1\obj\Debug\net10.0\lambdaExampleG1.pdb
+C:\Users\ajkil\source\repos\lambdaExampleG1\lambdaExampleG1\obj\Debug\net10.0\lambdaExampleG1.genruntimeconfig.cache
+C:\Users\ajkil\source\repos\lambdaExampleG1\lambdaExampleG1\obj\Debug\net10.0\ref\lambdaExampleG1.dll
